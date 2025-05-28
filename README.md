@@ -18,7 +18,6 @@
 
 ### 🛠️ Tecnologias e Ferramentas:
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=red)
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=CSS3)
