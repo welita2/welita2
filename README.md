@@ -7,7 +7,7 @@
 # Welita Quirino
 
  
- Estudante de Bacharelado em Sistemas de Informação no Instituto Federal de Goiás (IFG) e desenvolvedora Fullstack. Apaixonada por tecnologia e pela forma em que ela transforma realidades. Amo aprender, evoluir constantemente e me conectar com propósitos e soluções inovadoras por meio da tecnologia.
+ Cursando Bacharelado em Sistemas de Informação no Instituto Federal de Goiás (IFG) e desenvolvedora Fullstack. Apaixonada por tecnologia e pela forma em que ela transforma realidades. Amo aprender, evoluir constantemente e me conectar com propósitos e soluções inovadoras por meio da tecnologia.
 
 
  ### Conecte-se comigo
